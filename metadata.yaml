@@ -1,0 +1,38 @@
+_repo: Nights-With-Uncle-Remus--Myths-and-Legends-of-the-Old-Plantation_26429
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26429-h/images/coverl.jpg
+creator:
+  author:
+    agent_name: Harris, Joel Chandler
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '868'
+    url: http://www.gutenberg.org/2009/agents/868
+    wikipedia: http://en.wikipedia.org/wiki/Joel_Chandler_Harris
+description: For more than a hundred years, the tales of Joel Chandler Harris have
+  entertained and influenced both readers and writers. <i>Nights with Uncle Remus</i>
+  gathers seventy-one of Harris's most popular narratives, featuring African American
+  trickster tales, etiological myths, Sea Island legends, and chilling ghost stories.
+  Told through the distinct voices of four slave storytellers, indispensable tales
+  like "The Moon in the Mill-Pond" and other Brer Rabbit stories have inspired writers
+  from Mark Twain to William Faulkner, Zora Neale Hurston to Toni Morrison, and helped
+  revolutionize modern children's literature and folktale collecting.
+gutenberg_issued: '2008-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Fiction'
+- !lcsh 'Plantation life -- Fiction'
+- !lcsh 'Georgia -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Remus, Uncle (Fictitious character) -- Fiction'
+- !lcsh 'African American men -- Fiction'
+title: 'Nights With Uncle Remus: Myths and Legends of the Old Plantation'
+url: http://www.gutenberg.org/ebooks/26429
